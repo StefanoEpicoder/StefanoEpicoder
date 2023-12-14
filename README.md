@@ -6,7 +6,7 @@ Thanks to my previous work experience, I have acquired excellent customer manage
 
 - I've studied Programming **Epicode School**
 
-- 🌱 I’m currently learning **React, Php and Core**
+- 🌱 I’m currently learning **React**
 
 - e-Mail: **dantoni.stefano@libero.it**
 
