@@ -16,6 +16,7 @@ Thanks to my previous work experience, I have acquired excellent customer manage
 <p align="left">
 <a href="https://www.instagram.com/_stefano_87/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   <a href="https://www.facebook.com/stefano.dantoni2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+    <a href="https://www.linkedin.com/in/stefano-d%E2%80%99antoni-a77744277/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
