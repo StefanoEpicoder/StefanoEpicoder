@@ -6,7 +6,7 @@ Thanks to my previous work experience, I have acquired excellent customer manage
 
 - I'm a student at **Epicode School**
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Typescript**
 
 - e-Mail: **dantoni.stefano@libero.it**
 
