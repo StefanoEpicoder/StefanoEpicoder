@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Stefano D'Antoni</h1>
-<h3 align="center">A Junior Full-Stack Developer student from Italy</h3>
-<p>I'm studing at Epicode School, in which I obtaining the certifications to practice the profession of Full-Stack Developer. 
+<h3 align="center">A Junior Full-Stack Developer from Italy</h3>
+<p>I've studied at Epicode School, in which I obtaining the certifications to practice the profession of Full-Stack Developer. 
 Through this Bootcamp I'm creating real projects to immerse myself in the best possible way in this new reality!
 Thanks to my previous work experience, I have acquired excellent customer management skills, being available and authoritative at the same time.</p>
 
