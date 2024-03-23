@@ -4,9 +4,9 @@
 Through this Bootcamp I'm creating real projects to immerse myself in the best possible way in this new reality!
 Thanks to my previous work experience, I have acquired excellent customer management skills, being available and authoritative at the same time.</p>
 
-- I'm a student at **Epicode School**
+- I've completed the Full-Stack course at **Epicode School**
 
-- 🌱 I’m currently learning **DOTNET**
+- 🌱 I’m currently improving my skills **DOTNET**
 
 - e-Mail: **dantoni.stefano@libero.it**
 
