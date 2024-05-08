@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, Stefano D'Antoni</h1>
-<h3 align="center">A Junior Full-Stack Developer from Italy</h3>
-<p>I studied at Epicode School, in which I obtained the certifications to practice the profession of Full-Stack Developer. Through this Bootcamp, I created real projects to immerse myself in the best possible way in this new reality! Thanks to my previous work experience, I acquired excellent customer management skills, being available and authoritative at the same time.</p>
+<h1 align="center">Hi 👋, I'm Stefano D'Antoni</h1>
+<h3 align="center">A Passionate Junior Full-Stack Developer from Italy</h3>
+<p>I graduated from Epicode School, where I earned certifications to practice as a Full-Stack Developer. Through this intensive Bootcamp, I've worked on real projects to dive deep into the world of development! My previous work experiences have endowed me with excellent customer management skills, balancing approachability with authority.</p>
 
-- I've completed the Full-Stack course at **Epicode School**
+- I've completed the Full-Stack course at **Epicode School**.
 
-- 🌱 I’m currently improving my skills **DOTNET**
+- 🌱 I’m currently honing my skills in **.NET**.
 
-- e-Mail: **dantoni.stefano@libero.it**
+- 📧 Email: **dantoni.stefano@libero.it**
 
-- ⚡ Fun fact **I like working in a group and listening to other people's advice.**
+- ⚡ Fun fact: **I thrive in collaborative environments and value the insights of my peers.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
